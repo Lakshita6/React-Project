@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Lakshita6/React-Project/static/css/main.f871d3c0.chunk.css",
+    "main.js": "/Lakshita6/React-Project/static/js/main.9b6d4f64.chunk.js",
+    "main.js.map": "/Lakshita6/React-Project/static/js/main.9b6d4f64.chunk.js.map",
+    "runtime-main.js": "/Lakshita6/React-Project/static/js/runtime-main.2a59ad72.js",
+    "runtime-main.js.map": "/Lakshita6/React-Project/static/js/runtime-main.2a59ad72.js.map",
+    "static/js/2.ee40bc34.chunk.js": "/Lakshita6/React-Project/static/js/2.ee40bc34.chunk.js",
+    "static/js/2.ee40bc34.chunk.js.map": "/Lakshita6/React-Project/static/js/2.ee40bc34.chunk.js.map",
+    "static/js/3.f977cdec.chunk.js": "/Lakshita6/React-Project/static/js/3.f977cdec.chunk.js",
+    "static/js/3.f977cdec.chunk.js.map": "/Lakshita6/React-Project/static/js/3.f977cdec.chunk.js.map",
+    "index.html": "/Lakshita6/React-Project/index.html",
+    "static/css/main.f871d3c0.chunk.css.map": "/Lakshita6/React-Project/static/css/main.f871d3c0.chunk.css.map",
+    "static/js/2.ee40bc34.chunk.js.LICENSE.txt": "/Lakshita6/React-Project/static/js/2.ee40bc34.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Lakshita6/React-Project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a59ad72.js",
+    "static/js/2.ee40bc34.chunk.js",
+    "static/css/main.f871d3c0.chunk.css",
+    "static/js/main.9b6d4f64.chunk.js"
+  ]
+}
